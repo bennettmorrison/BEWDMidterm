@@ -50,6 +50,5 @@ _Connects to Gmail (although not through OAuth), and brings back email of accoun
 _There are three files.  Runner (Main), Request (where most everything happens), and User_
 
 
-* Push code on Github. 
-_It's on Github._
+* Push code on Github. _It's on Github._
 
